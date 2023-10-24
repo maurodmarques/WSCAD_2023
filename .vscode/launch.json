@@ -12,7 +12,7 @@
             "rejectUnauthorized": true,
             "resultLimit": 100,
             "timeoutSecs": 60,
-            "user": "mdm_local",
+            "user": "xyz_local",
             "password": ""
         },
         {
@@ -26,7 +26,7 @@
             "rejectUnauthorized": true,
             "resultLimit": 100,
             "timeoutSecs": 60,
-            "user": "mdm_cluster",
+            "user": "xyz_cluster",
             "password": ""
         }
     ]
